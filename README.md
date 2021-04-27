@@ -1,7 +1,7 @@
 # BTS_Research 
 
 
-### 2-5G NBIoT
+### 2-5G 
 https://cn0xroot.com/2019/10/17/build_2g_3g_4g_5g_with_sdr/
 
 
@@ -35,4 +35,9 @@ Demo:https://www.youtube.com/watch?v=PFH_-vID3AA
 ### 4G
 https://cn0xroot.com/2016/07/06/how-to-build-4g-lte-base-station-with-gnuradio-bladerf-openlte-part-1/
 https://cn0xroot.com/2018/02/10/low-cost_imsi_catcher_for_4g_lte_base_on_openlte_and_usrp/
+
+
+### 5G & NBIoT
+
+https://cn0xroot.com/2020/09/20/build_4g_lte_nbiot_and_5g-nr_with_sdr/
 
