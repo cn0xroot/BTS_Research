@@ -32,6 +32,10 @@ http://shop.sysmocom.de/products/simtrace
 pysim
 https://github.com/osmocom/pysim
 
+
+Facilitates communications with telco smartcard (especially SIM and USIM)
+https://github.com/mitshell/card
+
 SIM Explorer
 https://sourceforge.net/projects/sim-explorer/
 
