@@ -16,3 +16,8 @@ https://android.googlesource.com/device/sample/+/master/etc/apns-full-conf.xml
 Wireless frequency bands 基站无线频段信息检测：
 
 http://www.sqimway.com/
+
+## Band modify
+https://band.radio/
+
+https://mt-tech.fi/en/
