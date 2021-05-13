@@ -11,6 +11,10 @@ http://shop.sysmocom.de/products/sysmousim-sjs1-4ff
 2G 3G 4G 5G
 http://shop.sysmocom.de/products/sysmoISIM-SJA2
 
+
+2-4G   Bluecard
+http://www.blutronics.com/partners.aspx
+
 ### SIM Card readers
 
 http://shop.sysmocom.de/t/sim-card-related/card-readers
