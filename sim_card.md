@@ -24,6 +24,12 @@ MCR3512
 
 https://s.taobao.com/search?q=MCR3512
 
+CAC approved desktop smartcard readers
+https://www.smartcardfocus.us/shop/ilp/se~122/cac-readers-desktop/p/index.shtml
+
+Mobile phone SIM management solutions
+https://www.smartcardfocus.us/shop/ilp/se~91/mobile-sim-management/p/index.shtml
+
 
 ### SIM Sniffer
 
