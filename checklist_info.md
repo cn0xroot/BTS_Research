@@ -17,6 +17,10 @@ Wireless frequency bands 基站无线频段信息检测：
 
 http://www.sqimway.com/
 
+
+频谱 频段转换
+https://itectec.com/band/nr-band-n71/#spectrum-overlap-bands
+
 ## Band modify
 https://band.radio/
 
